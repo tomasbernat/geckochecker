@@ -1,0 +1,12 @@
+{
+  "name": "gecko",
+  "version": "0.0.1",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.2"
+  },
+  "type":"module",
+  "bin": {
+    "geckochecker": "gecko.mjs"
+  }
+}

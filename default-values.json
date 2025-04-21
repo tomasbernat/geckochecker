@@ -1,0 +1,10 @@
+{
+    "currencies": [
+        "usd"
+    ],
+    "ids": [
+        "bitcoin",
+        "ethereum"
+    ],
+    "output":"list"
+}
