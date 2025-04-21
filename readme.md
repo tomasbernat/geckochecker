@@ -77,7 +77,7 @@ geckochecker -i polkadot -c eur -o json
 ```
 
 
-####Credits:
+#### Credits:
 This tool uses the CoinGecko public API: https://www.coingecko.com
 
 
